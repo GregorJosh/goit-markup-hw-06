@@ -252,9 +252,9 @@ button:hover {
   border: 1px solid var(--bg-overlay6);
   border-radius: 4px;
   position: absolute;
-  top: 90px;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
   text-align: right;
   box-shadow: var(--shadow1);
 }
